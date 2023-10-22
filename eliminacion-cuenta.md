@@ -5,7 +5,7 @@
 ## Pasos para Solicitar la Eliminación de Cuenta
 
 1. **Enviar un correo electrónico**: 
-   - Dirección: `abc@bmail.com`
+   - Dirección: `winnow.labgenesis@gmail.com`
    - Asunto: "Eliminación de cuenta"
    - Contenido: Indica tu número de cédula o identificación que deseas eliminar. Es esencial que envíes este correo desde la dirección de email con la que te registraste en nuestra plataforma.
 
