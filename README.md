@@ -1,54 +1,30 @@
-# Política de Privacidad de Sell & Send
+# Términos y Condiciones de Uso de la Aplicación de Ventas "SELL & SEND"
 
-Sell & Send opera el sitio web https://sell-send.com/home y la aplicación Sell & Send, que proporcionan el servicio de gestión de campañas de ventas.
+## 1. Aceptación de Términos y Condiciones
+El acceso y uso de la aplicación "SELL & SEND" (en adelante, la "Aplicación") están sujetos a los términos y condiciones establecidos a continuación. Al registrarse y utilizar la Aplicación, el usuario acepta expresamente estos Términos y Condiciones.
 
-Esta página se utiliza para informar a los visitantes del sitio web sobre nuestras políticas con la recopilación, uso y divulgación de Información Personal si alguien decide usar nuestro Servicio, el sitio web Nombre del Sitio Web.
+## 2. Registro y Veracidad de la Información
+El usuario se compromete a proporcionar información de registro precisa, completa y actualizada. Se prohíbe expresamente el suministro de información falsa, fraudulenta o engañosa. La aplicación se reserva el derecho de verificar la autenticidad de la información proporcionada por el usuario.
 
-Si decides usar nuestro Servicio, entonces aceptas la recopilación y uso de información en relación con esta política. La Información Personal que recopilamos se utiliza para proporcionar y mejorar el Servicio. No usaremos ni compartiremos tu información con nadie, excepto como se describe en esta Política de Privacidad.
+## 3. Uso Legítimo de la Aplicación
+El usuario se compromete a utilizar la Aplicación de manera legítima y no para fines fraudulentos. Cualquier actividad que se considere como uso fraudulento, incluyendo pero no limitado a la manipulación de datos, será motivo de bloqueo permanente del usuario en la plataforma.
 
-Los términos utilizados en esta Política de Privacidad tienen los mismos significados que en nuestros Términos y Condiciones, que están disponibles en la URL del Sitio Web, a menos que se definan de otra manera en esta Política de Privacidad.
+## 4. Funcionalidades de la Aplicación
+El usuario, al ser parte de una farmacia, utilizará la Aplicación para gestionar las ventas de productos farmacéuticos. En el proceso de venta, se requerirá la carga de la información de la factura y el escaneo del código QR impreso en la etiqueta del producto.
 
-## Recopilación y Uso de la Información
+## 5. Generación de Comisiones
+Cada venta de producto a través de la Aplicación generará una comisión, la cual será pagada al usuario cada 15 días. El usuario acepta que las comisiones generadas podrán estar sujetas a deducciones de costos financieros y/o impuestos, los cuales serán asumidos íntegramente por el usuario.
 
-Para una mejor experiencia al usar nuestro Servicio, es posible que te solicitemos que nos proporciones cierta información personal identificable, que incluye pero no se limita a tu nombre, número de teléfono, correo electrónico, número de cuentas bancarias, contraseña. La información que recopilamos se utilizará para contactarte o identificarte.
+## 6. Bloqueo de Usuario
+El mal uso de la Aplicación, incluyendo pero no limitado a actividades fraudulentas, resultará en el bloqueo permanente del usuario en nuestra plataforma. La decisión de bloqueo será tomada a discreción de la administración de la Aplicación.
 
-## Datos de Registro
+## 7. Responsabilidad del Usuario
+El usuario es el único responsable de mantener la confidencialidad de su cuenta y contraseña. Asimismo, el usuario asume la responsabilidad de todas las actividades realizadas bajo su cuenta.
 
-Queremos informarte de que cada vez que visitas nuestro Servicio, recopilamos información que tu navegador nos envía, llamada Datos de Registro. Estos Datos de Registro pueden incluir información como la dirección de Protocolo de Internet (“IP”) de tu computadora, versión del navegador, páginas de nuestro Servicio que visitas, la fecha y hora de tu visita, el tiempo que pasas en esas páginas y otras estadísticas.
+## 8. Modificaciones de Términos y Condiciones
+La administración de la Aplicación se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento. Las modificaciones entrarán en vigencia inmediatamente después de su publicación en la Aplicación.
 
-## Cookies
+## 9. Ley Aplicable
+Estos Términos y Condiciones se regirán e interpretarán de acuerdo con las leyes vigentes y cualquier disputa estará sujeta a la jurisdicción exclusiva de los tribunales.
 
-Las cookies son archivos con una pequeña cantidad de datos que se utiliza comúnmente como identificador único anónimo. Estos se envían a tu navegador desde el sitio web que visitas y se almacenan en el disco duro de tu computadora.
-
-Nuestro sitio web utiliza estas "cookies" para recopilar información y mejorar nuestro Servicio. Tienes la opción de aceptar o rechazar estas cookies y saber cuándo se envía una cookie a tu computadora. Si decides rechazar nuestras cookies, es posible que no puedas usar algunas partes de nuestro Servicio.
-
-## Proveedores de Servicio
-
-Es posible que empleemos empresas y personas de terceros por las siguientes razones:
-
-- Para facilitar nuestro Servicio;
-- Para proporcionar el Servicio en nuestro nombre;
-- Para realizar servicios relacionados con el Servicio; o
-- Para ayudarnos a analizar cómo se utiliza nuestro Servicio.
-
-Queremos informar a nuestros usuarios del Servicio que estos terceros tienen acceso a tu Información Personal. La razón es realizar las tareas asignadas a ellos en nuestro nombre. Sin embargo, están obligados a no divulgar ni usar la información para ningún otro propósito.
-
-## Seguridad
-
-Valoramos tu confianza al proporcionarnos tu Información Personal, por lo que nos esforzamos por usar medios comercialmente aceptables para protegerla. Pero recuerda que ningún método de transmisión por Internet o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su seguridad absoluta.
-
-## Enlaces a Otros Sitios
-
-Nuestro Servicio puede contener enlaces a otros sitios. Si haces clic en un enlace de un tercero, serás dirigido a ese sitio. Ten en cuenta que estos sitios externos no los operamos nosotros. Por lo tanto, te recomendamos encarecidamente que revises la Política de Privacidad de estos sitios web. No tenemos control sobre y no asumimos ninguna responsabilidad por el contenido, políticas de privacidad o prácticas de sitios o servicios de terceros.
-
-## Privacidad de los Niños
-
-Nuestros Servicios no están dirigidos a personas menores de 13 años. No recopilamos información personal identificable de niños menores de 13 años a sabiendas. En el caso de que descubramos que un niño menor de 13 años nos ha proporcionado información personal, la eliminamos inmediatamente de nuestros servidores. Si eres padre o tutor y sabes que tu hijo nos ha proporcionado información personal, contáctanos para que podamos tomar las medidas necesarias.
-
-## Cambios en Esta Política de Privacidad
-
-Podemos actualizar nuestra Política de Privacidad de vez en cuando. Por lo tanto, te recomendamos revisar esta página periódicamente para cualquier cambio. Te notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página. Estos cambios son efectivos inmediatamente después de ser publicados en esta página.
-
-## Contáctanos
-
-Si tienes alguna pregunta o sugerencia sobre nuestra Política de Privacidad, no dudes en contactarnos.
+Al utilizar la Aplicación, el usuario acepta estar sujeto a estos Términos y Condiciones.
